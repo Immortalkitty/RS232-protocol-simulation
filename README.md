@@ -36,7 +36,7 @@ The application consists of two windows, the Transmitter window and the Receiver
 
 ![Interface](ReadmeImages/Interface.png)
 
-## Author
+## Authors
 
 Katarzyna Szczerba
 
