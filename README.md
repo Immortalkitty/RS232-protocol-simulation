@@ -39,4 +39,5 @@ The application consists of two windows, the Transmitter window and the Receiver
 ## Author
 
 Katarzyna Szczerba
+
 Aleksandra Boruczkowska
