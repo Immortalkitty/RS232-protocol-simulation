@@ -5,7 +5,7 @@ This project simulates the RS232 communication protocol, a standard for serial c
 
 ## Features
 - **Simulation of Serial Communication:** Emulates the behavior of the RS232 protocol.
-- **Interactive Interface:** Allows users to imput text string.
+- **Interactive Interface:** Allows users to input text string.
 - **Real-time Data Transmission:** Visualizes the data transmission process in real-time.
 - **Dictionary of swear words:** Dictionary with the help of which curses are recognized in order to censor them.
 
