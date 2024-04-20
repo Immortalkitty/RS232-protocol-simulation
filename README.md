@@ -28,7 +28,7 @@ The transmitter and receiver are treated as two separate windows (forms) within 
 **bitStart(0) + bitsOfCharacterInReverseOrder + bitStop(1) + bitStop(1)**
 
 In the receiver window, the process is reversed, meaning the bit sequence is converted back into a character string and concatenated into a string form.
-The mechanism for filtering profane words is based on reading "obscenities" from a .txt file into a List<string>. Using a foreach loop, each word from the .txt file is added to the list. When a profanity is detected, the process of filtering takes place (the text here is cut off, please provide the continuation if needed).
+The mechanism for filtering profane words is based on reading "obscenities" from a .txt file into a List<string>. Using a foreach loop, each word from the .txt file is added to the list. When a profanity is detected, the process of filtering takes place.
 
 ## Interface Description
 
